@@ -34,5 +34,3 @@ I'm **Victor** — a future Fullstack Engineer based in 🇧🇪 Brussels, passi
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-spirlet26/)
-
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd2aG96ZnRxbXhxZzJuaGNjN2lvNmhnOWliYjQ2c29rdXBibzd4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif
