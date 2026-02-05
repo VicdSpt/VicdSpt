@@ -24,7 +24,7 @@ I'm **Victor** — a Fullstack Engineer based in 🇧🇪 Brussels, passionate a
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently working as a Fullstack Engineer
+- 🔭 I'm currently learning at Wild Code School
 - 🌱 I'm always learning and exploring new technologies
 - 💬 Ask me about React, TypeScript, and modern web development
 - 📍 Based in Brussels, Belgium
