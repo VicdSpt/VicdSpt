@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 # Hi there 👋
 
 I'm **Victor**, a future Fullstack Engineer based in 🇧🇪 Brussels, passionate about building modern web applications and debugging.
@@ -34,3 +38,5 @@ I'm **Victor**, a future Fullstack Engineer based in 🇧🇪 Brussels, passiona
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-spirlet26/)
+
+<img src="https://raw.githubusercontent.com/VicdSpt/VicdSpt/output/snake.svg" alt="Snake animation" />
