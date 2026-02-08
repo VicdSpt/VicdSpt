@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Victor**, a future Fullstack Engineer based in 🇧🇪 Brussels, passionate about building modern web applications and debugging.
+I'm **Victor**, a future Fullstack Engineer based in 🇧🇪 Brussels, passionate about building modern web applications and debugging
 
 ---
 
