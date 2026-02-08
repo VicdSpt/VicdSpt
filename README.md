@@ -25,8 +25,8 @@ I'm **Victor**, a future Fullstack Engineer based in 🇧🇪 Brussels, passiona
 ## 🧑‍💻 About Me
 
 - 🔭 I'm currently learning at Wild Code School
-- 🌱 I'm always learning and exploring new technologies
-- 💬 Ask me about React, TypeScript, and modern web development
+- 🌱 I'm always eager to learn and explore new technologies
+- 💻 I like to build fun apps/projects and solve bugs 
 - 📍 Based in Brussels, Belgium
 
 ---
