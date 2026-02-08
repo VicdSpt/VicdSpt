@@ -39,4 +39,4 @@ I'm **Victor**, a future Fullstack Engineer based in 🇧🇪 Brussels, passiona
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Vicdspt/Vicdspt/output/github-snake.svg)
