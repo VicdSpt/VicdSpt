@@ -19,6 +19,8 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
 ---
 
@@ -27,7 +29,7 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 - 🔭 I'm currently learning at Wild Code School
 - 🌱 I'm always eager to learn and explore new technologies
 - 💻 I like to build fun apps/projects and solve bugs 
-- 📍 Based in Brussels, Belgium
+- 📍 Based in Brussels, Belgium (Able to move to Lille and Paris)
 
 ---
 
