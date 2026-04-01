@@ -21,7 +21,7 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Render](https://img.shields.io/badge/-Render-3ECF8E?style=for-the-badge&logo=render&logoColor=black)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
