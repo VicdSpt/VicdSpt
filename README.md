@@ -38,16 +38,20 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vicdspt.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-spirlet26/)
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vicdspt&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vicdspt&layout=compact&theme=dark&hide_border=true" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=Vicdspt&theme=dark&hide_border=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vicdspt&layout=compact&theme=dark&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🐍 Contribution Snake
 
