@@ -1,5 +1,9 @@
 # Hi there 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Fullstack+Developer+in+progress+%F0%9F%9A%80;React+%7C+TypeScript+%7C+Node.js;Based+in+Brussels+%F0%9F%87%A7%F0%9F%87%AA" />
+</p>
+
 I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passionate about building modern web applications and debugging
 
 ## 🛠️ Technologies & Tools
@@ -38,6 +42,11 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vicdspt&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 📊 Stats
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vicdspt&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Snake
