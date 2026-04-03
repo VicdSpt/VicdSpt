@@ -2,8 +2,6 @@
 
 I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passionate about building modern web applications and debugging
 
----
-
 ## 🛠️ Technologies & Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -24,8 +22,6 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
-
 ## 🧑‍💻 About Me
 
 - 🔭 I'm currently learning at Wild Code School
@@ -33,22 +29,16 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 - 💻 I like to build fun apps/projects and solve bugs 
 - 📍 Based in Brussels, Belgium (Able to move to Lille and Paris)
 
----
-
 ## 📫 How to reach me
 
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vicdspt.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-spirlet26/)
-
----
 
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vicdspt&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ## 🐍 Contribution Snake
 
