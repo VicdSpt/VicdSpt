@@ -49,7 +49,7 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vicdspt&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vicdspt&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ## 🐍 Contribution Snake
