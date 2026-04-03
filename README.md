@@ -40,8 +40,6 @@ I'm **Victor**, a future Fullstack Engineer based in Brussels 🇧🇪, passiona
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Vicdspt&theme=dark&hide_border=true" height="150" />
   &nbsp;&nbsp;
