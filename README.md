@@ -4,19 +4,27 @@
 
 </div>
 
----
-
+## 🚀 Looking for a Work-Study Contract (Alternance)
+ 
+> I'm actively looking for an **18-month work-study contract** starting **July 2026** as part of my **Application Developer (CDA)** program at Wild Code School.
+ 
+| | |
+|---|---|
+| 📅 **Availability** | July 2026 |
+| ⏳ **Duration** | 18 months |
+| 🔄 **Rhythm** | 3 weeks in company / 1 week at school |
+| 📍 **Location** | Brussels 🇧🇪 · Lille · Paris · Remote |
+| 🎓 **Program** | Concepteur Développeur d'Applications — Wild Code School (Graduated) |
+ 
 ## 🧑‍💻 About Me
-
-I'm a **future Fullstack Engineer** based in Brussels 🇧🇪, currently training at **Wild Code School**.  
+ 
+I'm a **Fullstack Developer** based in Brussels 🇧🇪, graduated from **Wild Code School**.  
 Passionate about building clean, modern web applications — and yes, I enjoy debugging too.
-
-- 🔭 Currently sharpening my skills at **Wild Code School**
+ 
+- 🎓 Graduated from **Wild Code School** — Concepteur Développeur d'Applications
 - 🌱 Always learning — currently deepening **TypeScript** & **Prisma**
 - 💻 I love building fun side projects and solving tricky bugs
-- 📍 Brussels, Belgium — open to opportunities in **Lille** and **Paris**
-
----
+- 📍 Brussels, Belgium — open to opportunities in **Lille**, **Paris**, and **Remote**
 
 ## 🛠️ Technologies & Tools
 
