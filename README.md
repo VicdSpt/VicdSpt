@@ -10,18 +10,18 @@
  
 | | |
 |---|---|
-| 📅 **Availability** | July 2026 |
+| 📅 **Availability** | July 2026 - August 2026 - September 2026 |
 | ⏳ **Duration** | 18 months |
 | 🔄 **Rhythm** | 3 weeks in company / 1 week at school |
 | 📍 **Location** | Brussels 🇧🇪 · Lille · Paris · Remote |
-| 🎓 **Program** | Concepteur Développeur d'Applications — Wild Code School (Graduated) |
+| 🎓 **Program** | Concepteur Développeur d'Applications |
  
 ## 🧑‍💻 About Me
  
 I'm a **Fullstack Developer** based in Brussels 🇧🇪, graduated from **Wild Code School**.  
 Passionate about building clean, modern web applications — and yes, I enjoy debugging too.
  
-- 🎓 Graduated from **Wild Code School** — Concepteur Développeur d'Applications
+- 🎓 Graduated from **Wild Code School** — Développeur Web
 - 🌱 Always learning — currently deepening **TypeScript** & **Prisma**
 - 💻 I love building fun side projects and solving tricky bugs
 - 📍 Brussels, Belgium — open to opportunities in **Lille**, **Paris**, and **Remote**
