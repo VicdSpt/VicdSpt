@@ -10,7 +10,7 @@ I'm a **Fullstack Developer** based in Brussels 🇧🇪, graduated from **Wild 
 Passionate about building clean, modern web applications — and yes, I enjoy debugging too.
  
 - 🎓 Graduated from **Wild Code School** — Développeur Web
-- 🌱 Always learning — currently deepening **TypeScript** & **Prisma**
+- 🌱 Always learning new technologies and discovering new fields
 - 💻 I love building fun side projects and solving tricky bugs
 - 📍 Brussels, Belgium — open to opportunities in **Lille**, **Paris**, and **Remote**
 
