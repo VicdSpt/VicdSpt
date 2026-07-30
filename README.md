@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
  
-I'm a **Fullstack Developer** based in Brussels 🇧🇪, graduated from **Wild Code School**.  
+I'm a **Web Developer** based in Brussels 🇧🇪, graduated from **Wild Code School**.  
 Passionate about building clean, modern web applications — and yes, I enjoy debugging too.
  
 - 🎓 Graduated from **Wild Code School** — Développeur Web
